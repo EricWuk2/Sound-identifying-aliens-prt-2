@@ -1,0 +1,24 @@
+
+.header_div
+{
+    background-color: #27374D;
+    color: #DDE6ED;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.copy_right_footer
+{
+    background-color: #27374D;
+    color: #DDE6ED;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+body
+{
+    background-color: #DDE6ED;
+}
